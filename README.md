@@ -30,7 +30,7 @@ https://github.com/GIT_USER_ID/GIT_REPO_ID
 then install it via:
 
 ```shell
-    npm install GIT_USER_ID/GIT_REPO_ID --save
+    npm install off-bank/cyclos-4.7-js-api --save
 ```
 
 ### For browser
